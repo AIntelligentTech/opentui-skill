@@ -1,0 +1,11 @@
+# Editor and OS
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node and package managers (if used in examples/tests)
+node_modules/
+.pnpm-store/
