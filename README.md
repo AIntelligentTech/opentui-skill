@@ -140,3 +140,4 @@ To upgrade an existing installation to a newer version:
 - Include updates to SKILL and reference docs in the **same PR** as behavior changes.
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for detailed contribution and review expectations.
+# CI/CD Status
